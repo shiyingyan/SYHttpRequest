@@ -1,7 +1,7 @@
 //
 //  SYHttpRequest
 //  hq
-//  Created by shiying on 5/10/16.
+//  Created by Shing on 5/10/16.
 //  Copyright © 2016 Cstorm. All rights reserved.
 //
 

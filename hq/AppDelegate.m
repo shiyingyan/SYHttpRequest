@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  hq
 //
-//  Created by shiying on 17/09/2017.
+//  Created by Shing on 17/09/2017.
 //  Copyright © 2017 Data Enlighten. All rights reserved.
 //
 

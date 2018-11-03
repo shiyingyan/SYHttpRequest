@@ -1,7 +1,7 @@
 //
 //  SYHttpRequest.h
 //  hq
-//  Created by shiying on 5/10/16.
+//  Created by Shing on 5/10/16.
 //  Copyright © 2016 Cstorm. All rights reserved.
 //
 
@@ -14,7 +14,7 @@
 #define url_timeout = 15; //单位：s
 
 /**
- *  @author shiying, 16-06-25 16:06:23
+ *  @author Shing, 16-06-25 16:06:23
  *
  *  @brief 服务器响应回调
  *
@@ -40,7 +40,7 @@ typedef void(^ServiceResponseBlock)(id _Nullable response,BOOL success,NSError *
 
 #pragma mark --- 发送POST数据请求
 /**
- *  @author shiying, 16-06-22 18:06:09
+ *  @author Shing, 16-06-22 18:06:09
  *
  *  @brief 向服务器发起HTTP连接
  *
@@ -56,7 +56,7 @@ typedef void(^ServiceResponseBlock)(id _Nullable response,BOOL success,NSError *
                                                  completion:(_Nullable ServiceResponseBlock)completion;
 
 /**
- *  @author shiying, 16-06-22 18:06:00
+ *  @author Shing, 16-06-22 18:06:00
  *
  *  @brief 向服务器发起HTTP连接，注意这里的uploadProgress和downloadProgress指的是参数的进度，不是指文件的上传和下载进度
  *
